@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/aaqibmahamood/aaqibmahamood/blob/main/S4CJr.gif" width="1000" height="500"/> 
+<img src="https://github.com/aaqibmahamood/aaqibmahamood/blob/master/S4CJr.gif" width="1000" height="500"/> 
 <div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Aaqib+Mahamood!;" />
