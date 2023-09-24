@@ -71,7 +71,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaqibmahamood&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="200" alt="languages graph">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaqibmahamood&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="200" alt="languages graph">
 <div>
   <img src="https://streak-stats.demolab.com?user=aaqibmahamood&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph">
   <img src="https://github-readme-stats.vercel.app/api?username=aaqibmahamood&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph">
