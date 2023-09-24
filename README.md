@@ -2,7 +2,7 @@
 <img src="https://github.com/aaqibmahamood/aaqibmahamood/blob/master/S4CJr.gif" width="1000" height="500"/> 
 <div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&color=38F713&size=35&center=true&vCenter=true&width=900&height=100&duration=4000&lines=Hi+There!;+I'm+Aaqib+Mahamood!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&color=38F713&size=35&center=true&vCenter=true&width=900&height=60&duration=4000&lines=Hi+There!;+I'm+Aaqib+Mahamood!;" />
 </h1>
 
 <h3 align="center">A passionate Robotics Software developer from India</h3>
@@ -80,5 +80,5 @@
   <img src="https://profile-counter.glitch.me/aaqibmahamood/count.svg?"  />
 <div>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&color=38F713&size=25&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&color=38F713&size=25&center=true&vCenter=true&width=900&height=60&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
