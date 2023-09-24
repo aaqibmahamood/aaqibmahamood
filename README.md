@@ -17,7 +17,7 @@
 
  ⚫ I'm looking to collaborate on  **Robotics (:::ROS) and Computer Vision Projects.**
 
- ⚫ Mechanicak Skills **SolidWorks, Fusion 360, Ansys**
+ ⚫ Mechanical Skills **SolidWorks, Fusion 360, Ansys**
 
  ⚫ **A Mechanical Graduate with a heart for Robotics and a vision for Computer Vision.**
  
