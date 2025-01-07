@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&color=38F713&size=35&center=true&vCenter=true&width=900&height=30&duration=4000&lines=Hi+There!;+I'm+Aaqib+Mahamood!;" />
 </h1>
 
-<h3 align="center">A passionate Robotics Software developer from India</h3>
+<h3 align="center">Robotics Software Engineer</h3>
 
 <br/>
 
