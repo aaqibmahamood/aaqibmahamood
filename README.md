@@ -8,20 +8,6 @@
 <h3 align="center">Robotics Software Engineer</h3>
 
 <br/>
-
-<div align="center">
- 
- ⚫ I’m currently working on **:::ROS**
- 
- ⚫ I’m currently learning **Computer Vision**
-
- ⚫ I'm looking to collaborate on  **Robotics (:::ROS) and Computer Vision Projects.**
-
- ⚫ Mechanical Skills **SolidWorks, Fusion 360, Ansys**
-
- ⚫ **A Mechanical Graduate with a heart for Robotics and a vision for Computer Vision.**
- 
- </div>
  
 <div align="center"> 
   <a href="mailto:aaqib.mahamood@gmail.com">
